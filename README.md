@@ -1,14 +1,5 @@
 # Private-Plugins
 There is a list of my private plugins
-# Sections
-
-- [For possible clients](#for-possible-clients)
-- [Private plugin list for sale](#private-plugin-list-for-sale)
-- [Other services](#other-services)
-- [Contact with me](#contact-with-me-preferably-telegram-or-discord-)
-
-
-# Here you can found all my private plugins that I sell but first the info for clients (see the plugin list more down)
 
 
 ### For possible clients:
@@ -32,3 +23,4 @@ There is a list of my private plugins
 * **Coding private plugins.**
 * **Modifying or fixing plugins.**
 * **Maintain and configure servers (csgo and linux).**
+
