@@ -27,9 +27,6 @@ There is a list of my private plugins
 * **FortniteBuild Private Version**: A plugin which allows you to build like in fortnite on csgo server.
 
 
-### You can see my private plugins in my main community: http://cola-team.com/foro/index.php?pages/servers/
-
-
 # Other services:
 
 * **Coding private plugins.**
